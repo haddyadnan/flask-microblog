@@ -1,2 +1,2 @@
 # flask-microblog
-Grinberg flask tutorial
+Grinberg flask
