@@ -131,3 +131,14 @@ dmypy.json
 #vscode
 .vscode/
 microenv/
+
+#log and db
+logs/
+*.log
+*.sqlite3
+*.sqlite
+*.db
+*.sql
+
+#config file
+config.py
